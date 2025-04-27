@@ -41,3 +41,4 @@ derby.log
 # OS generated files
 .DS_Store
 Thumbs.db
+/Proyecto | lectura, escritura, archivos de Big Data PySpark/act_1_big_data
